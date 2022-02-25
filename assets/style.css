@@ -1,0 +1,16 @@
+body,img,h2,h1{
+    max-width: 500px;
+    margin:auto;
+    background: #1779aa;
+}
+
+.eagletable{
+    border:1px solid black;
+    font-size:40px;
+    margin-left:auto;
+    margin-right: auto;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
